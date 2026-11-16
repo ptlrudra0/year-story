@@ -4,6 +4,6 @@
 - [x] Twelve Polaroid layouts and editable brand/metadata controls.
 - [x] Transactional ruler, recipes, QR, project persistence, import/export.
 - [x] Automated functional, pixel, privacy and visual checks.
-- [ ] Preserve old editor, deploy separately and verify the live build.
+- [x] Preserve old editor, deploy separately and verify the live build.
 
 - [ ] Physical iPhone Safari / iPad6 picker, share and memory checks. Not available in browser emulation.
